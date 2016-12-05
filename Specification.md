@@ -34,6 +34,8 @@ Pääsuhalduse korraldamine RIHA kesksüsteemis. Ei käsitleta pääsuhalduse ko
 
 [4] [Autentija](Autentija.md) - _lihtne ID-kaardi põhine autentimisteenus_
 
+[5] [RIHA MVP](https://e-gov.github.io/RIHA-API/MVP) - _ajakohasena hoitud ülevaade minimaalse keerukusega täistsüklilahendusest, RIHA tuumarendusest_
+
 ## 4 Põhimõtted ja disaini eesmärgid
 
 RIHA rollihalduses on põhimõtteks:
