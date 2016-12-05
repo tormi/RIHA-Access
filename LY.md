@@ -1,6 +1,6 @@
 ## Rollihaldur. I iteratsioon. Lähteülesanne
 
-#### 1 Lähtekohad
+#### 1 Spetsifikatsioonid
 
 Uue RIHA rollihalduse vajadused ja loodav tehniline lahendus on spetsifitseeritud dokumentides, edaspidi _spetsifikatsioonides_:
 
@@ -11,12 +11,12 @@ Spetsifikatsioonid väljendavad Tellija hetke parimat teadmist. Tellija on püü
 
 Spetsifikatsioone hoitakse ajakohasena. Kui kokku ei lepita teisiti, siis spetsifikatsioone täiendab Tellija, kasutades Täitja esitatud teavat.
 
-#### 2  Arendusmeetod
+#### 2  Agiilarendus
 Rollihalduri tarkvara arendatakse agiilselt, jagades tööd kaheks, vajadusel ka enamaks iteratsiooniks. Käesolev lähteülesanne hõlmab I iteratsiooni töid. II iteratsiooni tööd täpsustatakse I iteratsiooni valmides.
 
 Iteratsiooni pikkuseks on neli (4) nädalat, millest esimese 2 nädala lõpuks peab töötav kood olema põhijoontes valmis kirjutatud. 3-4. nädalal testitatakse ja täiendatakse koodi ning viiakse tarkvara dokumenteerimine lõpule.
 
-#### 3 Tööd
+#### 3 Iteratsiooni tööd
 
 Teostamisele tulevad ülalnimetatud spetsifikatsioonides määratletud tarkvara arendustööd, edaspidi _tööd_, I interatsioonina, koosseisus:
 
