@@ -16,6 +16,8 @@ Rollihalduri tarkvara arendatakse agiilselt, jagades tööd kaheks, vajadusel ka
 
 Iteratsiooni pikkuseks on neli (4) nädalat, millest esimese 2 nädala lõpuks peab töötav kood olema põhijoontes valmis kirjutatud. 3-4. nädalal testitatakse ja täiendatakse koodi ning viiakse tarkvara dokumenteerimine lõpule.
 
+Igapäevane suhtlus: Skype vestluses https://join.skype.com/lZDRVXzXZZfH.
+
 #### 3 Iteratsiooni tööd
 
 Teostamisele tulevad ülalnimetatud spetsifikatsioonides määratletud tarkvara arendustööd, edaspidi _tööd_, I iteratsioonina, koosseisus:
