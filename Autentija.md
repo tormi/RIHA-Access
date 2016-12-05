@@ -10,4 +10,4 @@ Komponenti vajame vähemalt seniks, kuni käivitub eesti.ee eIDAS autentimisteen
 
 Võimalik, et vajame ka eesti.ee eIDAS autentimisteenusest sõltumatult, selleks et RIHA eksperimentaalseid mooduleid katsetada.
 
-![](img/Autentija.PNG)
+<img src='img/Autentija.PNG' width=600 />
