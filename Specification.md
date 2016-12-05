@@ -20,6 +20,8 @@ Pääsuhalduse korraldamine RIHA kesksüsteemis. Ei käsitleta pääsuhalduse ko
 
 ## 2 Mõisted ja lühendid
 
+Lisaks alljärgnevatele on käesolevas dokumendis kasutusel dokumendis [2] defineeritud mõisted.
+
 | mõiste | seletus |
 |--------|---------|
 | _RIHA kesksüsteem_ | RIA taristus käitatav, andmebaasist, REST API-st ja mitmetest kasutajaliidesega moodulitest RIHA hajuslahenduse keskne komponent |
