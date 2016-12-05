@@ -1,4 +1,4 @@
-# RIHA rollihaldus
+# RIHA rollihaldus. Äriprotsess
 
 spetsifikatsioon
 
@@ -9,7 +9,7 @@ Sisukord
 - [1 Käsitlusala](#1-k%C3%A4sitlusala)
 - [2 Mõisted ja lühendid](#2-m%C3%B5isted-ja-l%C3%BChendid)
 - [3 Olulised viited](#3-olulised-viited)
-- [4 Rollihalduse põhimõtted ja disaini eesmärgid](#4-rollihalduse-p%C3%B5him%C3%B5tted-ja-disaini-eesm%C3%A4rgid)
+- [4 Vajadus](#4-vajadus)
 - [5 Rollid](#5-rollid)
 - [6 Protsessid (e kasutuslood)](#6-protsessid-e-kasutuslood)
   - [6.1 Kasutaja autoriseerimine](#61-kasutaja-autoriseerimine)
@@ -50,19 +50,26 @@ Dokument:
 ## 3 Olulised viited
 
 - [1] [RIHA üldvaade](https://github.com/e-gov/RIHA-API/blob/master/docs/YLDVAADE.md#riha-%C3%BCldvaade)
-- [2] [RIHA pääsuhaldus](Specification.md). Spetsifikatsioon. 
+- [2] [RIHA rollihaldus.Tehniline lahendus](Specification.md). Spetsifikatsioon. 
 - [3] Eesti.ee autentimisteenus v 0.9 (8.06.2016)
 - [4] [RIHA MVP](https://e-gov.github.io/RIHA-API/MVP)
 - [5] [Autentija](Autentija.md)
 
-## 4 Põhimõtted ja disaini eesmärgid
+## 4 Vajadus
 
-RIHA rollihalduses on põhimõtteks:
+RIHA üldpõhimõte on teabe avatus. Siiski on rida toiminguid, mille eelduseks on pääsuhaldus: kasutaja isiku tuvastamine (autentimine) ja/või juurdepääsu andmine ainult toimingut tegema õigustatud isikule. Selliste toimingute hulka kuuluvad:
 
-- Ainult minimaalselt vajalik keerukus
-  - keerukas rollihaldus on koormav ja kasutajad tegelikult ei vaja seda
-  - vana RIHA rollihaldus on liiga keerukas
-- Teha kõigepealt lihtne, aga töötav lahendus; tulevikus, kui tõesti vaja, alles siis täiendada.
+1. _kirjelduse_ koostamine, muutmine ja kustutamine
+2. _kooskõlastuse_ andmine
+3. piiratud juurdepääsuga teabe vaatamisel
+4. teiste kasutajate pääsuõiguste haldamisel (andmisel ja äravõtmisel)
+5. X-tee toimingutes (nt alamsüsteemide registreerimine)
+  
+RIHA pääsuhaldus lahendatakse järgmiste põhimõtete kohaselt:
+
+1. Pääsuhaldus on rollipõhine
+2. Asutuse kontrolli all olevasse taristusse paigaldatud RIHA komponentide pääsuõiguse korraldab ja vastutab asutus ise.
+3. RIHA kesksüsteemi komponentides lahendatakse pääsuhaldus võimalikult lihtsalt.
 
 ## 5 Rollid
 
