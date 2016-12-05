@@ -2,7 +2,7 @@
 
 spetsifikatsioon
 
-versioon 0.3 - 05.12.2016
+v0.3 - 05.12.2016
 
 Sisukord
 
@@ -12,6 +12,7 @@ Sisukord
 - [4 Rollihalduse põhimõtted ja disaini eesmärgid](#4-rollihalduse-p%C3%B5him%C3%B5tted-ja-disaini-eesm%C3%A4rgid)
 - [5 Lahendus](#5-lahendus)
 - [6 Vajalikud tööd](#6-vajalikud-tööd)
+- [Muutelugu](#muutelugu)
 
 ## 1 Käsitlusala
 
@@ -67,3 +68,10 @@ Joonis 1
 |---|---|
 | Esindusõiguse tuvastaja teostamine | _sisaldab ka projekteerimist_ |
 | Rollihalduri teostus | _sisaldab ka tehnoloogia kohandamist, analüüsi ja projekteerimist_ |
+
+
+## Muutelugu
+
+| versioon, kp | muudatus |
+|------------|--------------------------------------------------------|
+| v0.3 - 05.12.2016 | Mitmeid väiksemaid täiendusi |
