@@ -2,10 +2,14 @@
 
 #### 1 Lähtekohad
 
-Uue RIHA rollihalduse vajadused ja loodav tehniline lahendus on spetsifitseeritud dokumentides:
+Uue RIHA rollihalduse vajadused ja loodav tehniline lahendus on spetsifitseeritud dokumentides, edaspidi _spetsifikatsioonides_:
 
 - "RIHA rollihaldus. Äriprotsess" [1] [https://github.com/e-gov/RIHA-Access/blob/master/Roles.md](https://github.com/e-gov/RIHA-Access/blob/master/Roles.md)
 - "RIHA rollihaldus. Tehniline lahendus" [2] [https://github.com/e-gov/RIHA-Access/blob/master/Specification.md](https://github.com/e-gov/RIHA-Access/blob/master/Specification.md)
+
+Spetsifikatsioonid väljendavad Tellija hetke parimat teadmist. Tellija on püüdnud esitada võimalikult kogu tööde teostamiseks vajaliku informatsiooni. Spetsifikatsioone ei tule siiski käsitada lõplike ja muutumatutena. Võimalikud üleskerkivad küsimused lahendatakse töö käigus, Täitja ja Tellija koostöös, seades prioriteetideks ühelt poolt Tellija ärivajaduste rahuldamise ja teiselt poolt kokkulepitud töömahus püsimisi.
+
+Spetsifikatsioone hoitakse ajakohasena. Kui kokku ei lepita teisiti, siis spetsifikatsioone täiendab Tellija, kasutades Täitja esitatud teavat.
 
 #### 2  Arendusmeetod
 Rollihalduri tarkvara arendatakse agiilselt, jagades tööd kaheks, vajadusel ka enamaks iteratsiooniks. Käesolev lähteülesanne hõlmab I iteratsiooni töid. II iteratsiooni tööd täpsustatakse I iteratsiooni valmides.
