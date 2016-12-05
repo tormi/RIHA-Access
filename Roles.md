@@ -10,6 +10,9 @@ Sisukord
 - [2 Mõisted ja lühendid](#2-m%C3%B5isted-ja-l%C3%BChendid)
 - [3 Olulised viited](#3-olulised-viited)
 - [4 Vajadus](#4-vajadus)
+  - [4.1 Isiku ja tema õiguste tuvastamist eeldavad toimingud]()
+  - [4.2 Isiku ja tema õiguste tuvastamist eeldavad andmed]()
+  - [4.3 Põhimõtted]()
 - [5 Rollid](#5-rollid)
 - [6 Protsessid (e kasutuslood)](#6-protsessid-e-kasutuslood)
   - [6.1 Kasutaja autoriseerimine](#61-kasutaja-autoriseerimine)
@@ -57,6 +60,7 @@ Dokument:
 
 ## 4 Vajadus
 
+### 4.1 Isiku ja tema õiguste tuvastamist eeldavad toimingud
 RIHA üldpõhimõte on teabe avatus. Siiski on rida toiminguid, mille eelduseks on pääsuhaldus: kasutaja isiku tuvastamine (autentimine) ja/või juurdepääsu andmine ainult toimingut tegema õigustatud isikule. Selliste toimingute hulka kuuluvad:
 
 1. _kirjelduse_ koostamine, muutmine ja kustutamine
@@ -64,7 +68,22 @@ RIHA üldpõhimõte on teabe avatus. Siiski on rida toiminguid, mille eelduseks 
 3. piiratud juurdepääsuga teabe vaatamisel
 4. teiste kasutajate pääsuõiguste haldamisel (andmisel ja äravõtmisel)
 5. X-tee toimingutes (nt alamsüsteemide registreerimine)
-  
+
+### 4.2 Isiku ja tema õiguste tuvastamist eeldavad andmed
+
+Piiratud juurdepääsuga teave:
+
+- Vanas RIHAs on kesksüsteemi kogutud teabele juurdepääsu võimalik piirata. Mehhanism on keeruline ja halvasti läbipaistev. Juurdepääsu piiramist kasutatakse eelkõige kooskõlastajatele vajaliku, kuid väidetavalt avalikkuse eest kaitset vajavad teabe edastamiseks.
+- __Turvaauditite raportid__ Eraldi vajadus on RIA soov koguda RIHAsse turvaauditite raporteid. See teave vajab kindlasti juurdepääsu piiramist.
+- __Kontaktisikute andmed__
+- __Kaalutlused:__
+  - juurdepääsupiiranguga teabe töötlus läheb vastuollu RIHA teabe avalikkuse üldpõhimõttega ja lisaks keerukust, sh kõrgemast turvaklassist tulenevat.
+  - samas RIHA kontseptsioon platvormteenusena peaks võimaldama täita ka olulisi vajadusi, mis nõuavad juurdepääsupiiranguga teabe töötlemist.
+- __Lahendus:__ Piiratud juurdepääsuga teabe töötlemine lahendada eraldi moodulina (esialgne nimetus "Turvateave").
+  - moodul teostada teises järjekorras
+
+### 4.3 Põhimõtted
+
 RIHA pääsuhaldus lahendatakse järgmiste põhimõtete kohaselt:
 
 1. Pääsuhaldus on rollipõhine
