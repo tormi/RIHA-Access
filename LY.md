@@ -30,13 +30,18 @@ Tööd ei sisalda:
 
 1. Autentimisteenuse loomist. (Kasutada saab RIA poolt loodavat autentimisteenust)
 2. Esindusõiguse tuvastaja teostamist (jääb kaalumisele II iteratsioonis)
+3. Rollihalduri liidestamist RIHA kesksüsteemiga (liidestamine tehakse järgmistes iteratsioonides, RIHA kesksüsteemi komponentide valmides)
 
 #### 4 Tehnilised nõuded
 
 1. Rollihalduri alustehnoloogiana kasutada OpenLDAP [3].
-  1. analüüsida, kohandada ja täiendada vastavalt RIHA rollihalduse äriprotsessi nõuetele.
+  1. Analüüsida, kohandada ja täiendada vastavalt RIHA rollihalduse äriprotsessi nõuetele.
   2. Päring "rollide tuvastamisele" ja vastus "rollid tuvastatud" teostada vastavalt LDAP protokollile.
-  
+2. Kõik kasutuslood peavad olema korralikult testitud
+  1. Koostada testistrateegia dokument, testilood, valmistada ette testiandmed, lõpuks esitada testiraport.
+3. Tarkvara publitseerida avalikult https://github.com/e-gov/RIHA-Access.
+  1. Jälgida, et avalikult publitseeritud tarkvara ei sisalda konfidentsiaalset teavet.
+
 #### Viited
 
 [1] [RIHA rollihaldus. Äriprotsess](Roles.md)
