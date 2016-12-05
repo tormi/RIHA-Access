@@ -13,7 +13,7 @@ Sisukord
 - [1 Ülevaade](#1-käsitlusala)
 - [2 Mõisted ja lühendid](#2-mõisted-ja-lühendid)
 - [3 Olulised viited](#3-olulised-viited)
-- [4 Vajadus](#4-vajadus)
+- [4 Rollihalduse põhimõtted ja disaini eesmärgid](#4-rollihalduse-p%C3%B5him%C3%B5tted-ja-disaini-eesm%C3%A4rgid)
 - [5 Lahendus](#5-lahendus)
 - [6 Vajalikud tööd](#6-vajalikud-tööd)
 
@@ -39,14 +39,14 @@ Pääsuhalduse korraldamine RIHA kesksüsteemis. Ei käsitleta pääsuhalduse ko
 
 [4] [Autentija](Autentija.md)
 
-## 4 Vajadus
+## 4 Põhimõtted ja disaini eesmärgid
 
-1. RIHA üldpõhimõte on teabe avatus. Siiski on vaja juurdepääsu piirata järgmises toimingutes:
-  1. _kirjelduse_ koostamine, muutmine ja kustutamine
-  2. _kooskõlastuse_ andmine
-  3. piiratud juurdepääsuga teabe vaatamisel
-  4. teiste kasutajate pääsuõiguste haldamisel (andmisel ja äravõtmisel)
-  5. X-tee toimingutes (nt alamsüsteemide registreerimine) 
+RIHA rollihalduses on põhimõtteks:
+
+- Ainult minimaalselt vajalik keerukus
+  - keerukas rollihaldus on koormav ja kasutajad tegelikult ei vaja seda
+  - vana RIHA rollihaldus on liiga keerukas
+- Teha kõigepealt lihtne, aga töötav lahendus; tulevikus, kui tõesti vaja, alles siis täiendada.
 
 ## 5 Lahendus
 
