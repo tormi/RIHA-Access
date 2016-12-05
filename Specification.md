@@ -1,16 +1,12 @@
 MÄRKUSED
 
-16.11.2016 tutvustus H-le:
-- LDAP tundub hea; OpenLDAP pole kõrgkäideldavuse seisukohalt parim;
-- selgitada, kas eesti.ee autentimisteenuse lubadusele saab tugineda 
-
 ---
 
 # RIHA pääsuhaldus
 
 spetsifikatsioon
 
-v0.2, 18.11.2016
+v0.3, 05.12.2016
 
 Sisukord
 
@@ -72,7 +68,7 @@ Järgnevalt on esitatud RIHA pääsuhalduse lahendus, mis tugineb eesti.ee auten
 
 Joonis 1 
 
-![](RIHA-Paasuhaldus-03.PNG)
+![](img/RIHA-Access.PNG)
 
 | komponent | detailiseering |
 |----|----|
