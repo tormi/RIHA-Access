@@ -97,6 +97,17 @@ Uue RIHA moodulite arendamise käigus lisandub rolle. Millised täpselt, see sel
 6. Mitme asutuse korral valib inimene, keda ta esindab.
 7. Esindusõigusega isik määrab ühe isiku asutuse rollihalduriks.
 
+(alternatiiv juhuks, kui Esindusõiguse tuvastaja teostamine osutub võimatuks või otsustatakse, et Esindusõiguse tuvastajat ei teostata)
+
+1. Esindusõigusega isik siseneb RIHAsse - avalehele.
+2. Autendib end (esialgu Autentija [5], tulevikus eesti.ee autentimisteenuse abil).
+3. Valib avalehel toimingu "RIHAga liitumine".
+4. Suunatakse Rollihalduri kasutajaliidesesse.
+6. Esindusõigusega isik teatab asutuse, keda ta esindab.
+7. Esindusõigusega isik määrab ühe isiku asutuse rollihalduriks.
+8. Määramine jääb ootele, kuni RIA haldur selle kinnitab.
+  8.1 RIA haldur kontrollib esindusõigust RIHA-välise meetodiga.
+
 (abivoog: rollihalduri vahetamine)
 
 1. Esindusõigusega isik määrab asutuse rollihalduriks teise inimese.
