@@ -105,8 +105,9 @@ Uue RIHA moodulite arendamise käigus lisandub rolle. Millised täpselt, see sel
 4. Suunatakse Rollihalduri kasutajaliidesesse.
 6. Esindusõigusega isik teatab asutuse, keda ta esindab.
 7. Esindusõigusega isik määrab ühe isiku asutuse rollihalduriks.
-8. Määramine jääb ootele, kuni RIA haldur selle kinnitab.
-  8.1 RIA haldur kontrollib esindusõigust RIHA-välise meetodiga.
+8. Määramine pannakse ootele, kuni RIA haldur selle kinnitab.
+9. RIA haldur kontrollib esindusõigust RIHA-välise meetodiga.
+10. RIA haldur kinnitab rollihalduri määramise.
 
 (abivoog: rollihalduri vahetamine)
 
