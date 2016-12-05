@@ -105,14 +105,14 @@ Uue RIHA moodulite arendamise käigus lisandub rolle. Millised täpselt, see sel
 
 ## 6 Protsessid (e kasutuslood)
 
-## 6.1 Kasutaja autoriseerimine
+### 6.1 Kasutaja autoriseerimine
 1. Kasutaja siseneb RIHAsse - avalehele.
 2. Kasutaja autenditakse (esialgu Autentija [5], tulevikus eesti.ee autentimisteenuse abil).
 3. Avaleht pärib Rollihaldurist autenditud kasutaja rollid.
   1. Rollihaldus tagastab isiku kõik rollid.
   2. Kui isikul on rolle mitmes asutuses, siis tagastatakse kõigi asutustega seotud rollid, asutuste kaupa.
 
-## 6.2 Rollihalduri määramine
+### 6.2 Rollihalduri määramine
 (põhivoog)
 
 1. Esindusõigusega isik siseneb RIHAsse - avalehele.
@@ -149,7 +149,7 @@ Märkus. Vanas RIHAs sai asutuse RIHA haldur oma haldurirolli teisele inimesele 
 
 1. Esindusõigusega isik eemaldab rollihalduri.
 
-## 6.3 Rolli määramine
+### 6.3 Rolli määramine
 
 Märkus. Rolli `ROLLIHALDUR` määramine vt "Rollihalduri määramine".
 
@@ -182,7 +182,7 @@ Märkus. Rolli `RIHA HALDUR` määramine vt "RIHA halduri määramine".
 
 1. Rolli `KOOSKÕLASTAJA` saab määrata ainult kooskõlastavate asutuste nimekirja kuuluvas asutuses. 
 
-## 6.4 Rolli RIHA HALDUR määramine
+### 6.4 Rolli RIHA HALDUR määramine
 
 Rolli RIHA HALDUR määramine lahendatakse lähtudes RIA asutusesisesest rollide ja õiguste haldamise korrast ja tehnilisest keskkonnast.
 
