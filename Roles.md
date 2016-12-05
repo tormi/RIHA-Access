@@ -114,7 +114,8 @@ Uue RIHA moodulite arendamise käigus lisandub rolle. Millised täpselt, see sel
   2. Kui isikul on rolle mitmes asutuses, siis tagastatakse kõigi asutustega seotud rollid, asutuste kaupa.
 
 ### 6.2 Rollihalduri määramine
-(põhivoog)
+
+_põhivoog_
 
 1. Esindusõigusega isik siseneb RIHAsse - avalehele.
 2. Autendib end (esialgu Autentija [5], tulevikus eesti.ee autentimisteenuse abil).
@@ -124,7 +125,7 @@ Uue RIHA moodulite arendamise käigus lisandub rolle. Millised täpselt, see sel
 6. Mitme asutuse korral valib inimene, keda ta esindab.
 7. Esindusõigusega isik määrab ühe isiku asutuse rollihalduriks.
 
-(alternatiiv juhuks, kui Esindusõiguse tuvastaja teostamine osutub võimatuks või otsustatakse, et Esindusõiguse tuvastajat ei teostata)
+_alternatiivvoog juhuks, kui Esindusõiguse tuvastaja teostamine osutub võimatuks või otsustatakse, et Esindusõiguse tuvastajat ei teostata_
 
 1. Esindusõigusega isik siseneb RIHAsse - avalehele.
 2. Autendib end (esialgu Autentija [5], tulevikus eesti.ee autentimisteenuse abil).
@@ -136,7 +137,7 @@ Uue RIHA moodulite arendamise käigus lisandub rolle. Millised täpselt, see sel
 9. RIA haldur kontrollib esindusõigust RIHA-välise meetodiga.
 10. RIA haldur kinnitab rollihalduri määramise.
 
-(abivoog: rollihalduri vahetamine)
+_abivoog: rollihalduri vahetamine_
 
 1. Esindusõigusega isik määrab asutuse rollihalduriks teise inimese.
 
@@ -146,7 +147,7 @@ või
 
 Märkus. Vanas RIHAs sai asutuse RIHA haldur oma haldurirolli teisele inimesele üle anda.  
 
-(abivoog: rollihalduri eemaldamine)
+_abivoog: rollihalduri eemaldamine_
 
 1. Esindusõigusega isik eemaldab rollihalduri.
 
@@ -156,7 +157,7 @@ Märkus. Rolli `ROLLIHALDUR` määramine vt "Rollihalduri määramine".
 
 Märkus. Rolli `RIHA HALDUR` määramine vt "RIHA halduri määramine".
 
-(põhivoog)
+_põhivoog_
 
 1. Rollihaldur siseneb RIHAsse - avalehele
 2. Autendib end - eesti.ee autentimisteenuses.
@@ -167,15 +168,15 @@ Märkus. Rolli `RIHA HALDUR` määramine vt "RIHA halduri määramine".
 7. (NICE TO HAVE) Päringuga Rahvastikuregistrisse kontrollitakse andmete õigsust.
 8. Rollihaldur määrab inimesele rolli.
 
-(abivoog)
+_abivoog_
 
 1. Rollihaldur eemaldab inimeselt rolli
 
-(abivoog)
+_abivoog_
 
 1. Rollihaldur eemaldab inimese koos kõigi tema rollidega
 
-(abivoog)
+_abivoog_
 
 1. Rollihaldur annab inimesele teise rolli
 
