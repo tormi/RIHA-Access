@@ -2,7 +2,7 @@ MÄRKUSED
 
 ---
 
-# RIHA pääsuhaldus
+# RIHA rollihaldus. Tehniline lahendus
 
 spetsifikatsioon
 
@@ -33,7 +33,7 @@ Pääsuhalduse korraldamine RIHA kesksüsteemis. Ei käsitleta pääsuhalduse ko
 
 [1] [RIHA üldvaade](https://github.com/e-gov/RIHA-API/blob/master/docs/YLDVAADE.md#riha-%C3%BCldvaade)
 
-[2] [RIHA rollid ja õigused](Roles.md) _spetsifikatsioon_
+[2] [RIHA rollihaldus. Äriprotsess](Roles.md) _spetsifikatsioon_
 
 [3] Eesti.ee autentimisteenus v 0.9 (8.06.2016)
 
@@ -70,7 +70,7 @@ Järgnevalt on esitatud RIHA pääsuhalduse lahendus, mis tugineb eesti.ee auten
 
 Joonis 1 
 
-![](img/RIHA-Access.PNG)
+![](img/RIHA-Access-01.PNG)
 
 | komponent | detailiseering |
 |----|----|
