@@ -11,7 +11,7 @@ Sisukord
 - [3 Olulised viited](#3-olulised-viited)
 - [4 Rollihalduse põhimõtted ja disaini eesmärgid](#4-rollihalduse-p%C3%B5him%C3%B5tted-ja-disaini-eesm%C3%A4rgid)
 - [5 Lahendus](#5-lahendus)
-  [6 Vajalikud tööd](#6-vajalikud-tööd)
+- [6 Vajalikud tööd](#6-vajalikud-tööd)
 
 ## 1 Käsitlusala
 
@@ -66,4 +66,4 @@ Joonis 1
 |  töö | detailiseering  |
 |---|---|
 | Esindusõiguse tuvastaja teostamine | _sisaldab ka projekteerimist_ |
-| Rollihalduri teostus | _sisaldab ka tehnoloogia valikut, analüüsi ja projekteerimist. Eelduseks on "RIHA rollide ja õiguste mudel"_ |
+| Rollihalduri teostus | _sisaldab ka tehnoloogia kohandamist, analüüsi ja projekteerimist_ |
