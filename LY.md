@@ -18,7 +18,7 @@ Iteratsiooni pikkuseks on neli (4) nädalat, millest esimese 2 nädala lõpuks p
 
 #### 3 Iteratsiooni tööd
 
-Teostamisele tulevad ülalnimetatud spetsifikatsioonides määratletud tarkvara arendustööd, edaspidi _tööd_, I interatsioonina, koosseisus:
+Teostamisele tulevad ülalnimetatud spetsifikatsioonides määratletud tarkvara arendustööd, edaspidi _tööd_, I iteratsioonina, koosseisus:
 
 1. Rollihalduri teostus
   - arendada rakendus, vastavalt arhitektuurijoonisele [2, joonis 1]
