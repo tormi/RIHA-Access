@@ -57,6 +57,7 @@ Dokument:
 - [3] Eesti.ee autentimisteenus v 0.9 (8.06.2016)
 - [4] [RIHA MVP](https://e-gov.github.io/RIHA-API/MVP)
 - [5] [Autentija](Autentija.md)
+- [6] [RIHA MVP](https://e-gov.github.io/RIHA-API/MVP) - _ajakohasena hoitud ülevaade minimaalse keerukusega täistsüklilahendusest, RIHA tuumarendusest_
 
 ## 4 Vajadus
 
