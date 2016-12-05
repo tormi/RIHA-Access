@@ -10,9 +10,9 @@ Sisukord
 - [2 Mõisted ja lühendid](#2-m%C3%B5isted-ja-l%C3%BChendid)
 - [3 Olulised viited](#3-olulised-viited)
 - [4 Vajadus](#4-vajadus)
-  - [4.1 Isiku ja tema õiguste tuvastamist eeldavad toimingud]()
-  - [4.2 Isiku ja tema õiguste tuvastamist eeldavad andmed]()
-  - [4.3 Põhimõtted]()
+  - [4.1 Isiku ja tema õiguste tuvastamist eeldavad toimingud](#41-isiku-ja-tema-%C3%B5iguste-tuvastamist-eeldavad-toimingud)
+  - [4.2 Isiku ja tema õiguste tuvastamist eeldavad andmed](#42-isiku-ja-tema-õiguste-tuvastamist-eeldavad-andmed)
+  - [4.3 Põhimõtted](#43-põhimõtted)
 - [5 Rollid](#5-rollid)
 - [6 Protsessid (e kasutuslood)](#6-protsessid-e-kasutuslood)
   - [6.1 Kasutaja autoriseerimine](#61-kasutaja-autoriseerimine)
@@ -76,10 +76,10 @@ Piiratud juurdepääsuga teave:
 - Vanas RIHAs on kesksüsteemi kogutud teabele juurdepääsu võimalik piirata. Mehhanism on keeruline ja halvasti läbipaistev. Juurdepääsu piiramist kasutatakse eelkõige kooskõlastajatele vajaliku, kuid väidetavalt avalikkuse eest kaitset vajavad teabe edastamiseks.
 - __Turvaauditite raportid__ Eraldi vajadus on RIA soov koguda RIHAsse turvaauditite raporteid. See teave vajab kindlasti juurdepääsu piiramist.
 - __Kontaktisikute andmed__
-- __Kaalutlused:__
+- Kaalutlused:
   - juurdepääsupiiranguga teabe töötlus läheb vastuollu RIHA teabe avalikkuse üldpõhimõttega ja lisaks keerukust, sh kõrgemast turvaklassist tulenevat.
   - samas RIHA kontseptsioon platvormteenusena peaks võimaldama täita ka olulisi vajadusi, mis nõuavad juurdepääsupiiranguga teabe töötlemist.
-- __Lahendus:__ Piiratud juurdepääsuga teabe töötlemine lahendada eraldi moodulina (esialgne nimetus "Turvateave").
+- Lahendus: Piiratud juurdepääsuga teabe töötlemine lahendada eraldi moodulina (esialgne nimetus "Turvateave").
   - moodul teostada teises järjekorras
 
 ### 4.3 Põhimõtted
