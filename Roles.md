@@ -15,7 +15,7 @@ Sisukord
 - [6.1 Kasutaja autoriseerimine](#61-kasutaja-autoriseerimine)
 - [6.2 Rollihalduri määramine](#62-rollihalduri-m%C3%A4%C3%A4ramine)
 - [6.3 Rolli määramine](#63-rolli-m%C3%A4%C3%A4ramine)
-- [6.4 Rolli RIHA HALDUR määramine]()
+- [6.4 Rolli RIHA HALDUR määramine](#64-rolli-riha-haldur-m%C3%A4%C3%A4ramine)
 - [7 Õigused](#7-%C3%95igused)
 - [8 Rollide ülekandmine vanast RIHAst](#8-rollide-%C3%BClekandmine-vanast-rihast)
 - [Muutelugu](#muutelugu)
@@ -24,10 +24,11 @@ Sisukord
 
 Dokument:
 
-- modelleerib RIHAs kasutajatele antavaid rolle (käsitledes lühidalt ka õigusi)
+- modelleerib RIHAs kasutajatele antavaid rolle
 - spetsifitseerib rollide esialgse nimekirja
 - spetsifitseerib rollide ja õiguste haldusprotsessid (kasutaja lisamine, rolli andmine jms)
-- spetsifitseerib sisulised üldnõuded rolli- ja õiguste halduse teostusele.
+- spetsifitseerib sisulised üldnõuded rolli- ja õiguste halduse teostusele
+- käsitleb lühidalt ka õigustesse puutuvat.
 
 ## 2 Mõisted ja lühendid
 
@@ -99,6 +100,12 @@ Uue RIHA moodulite arendamise käigus lisandub rolle. Millised täpselt, see sel
 (abivoog: rollihalduri vahetamine)
 
 1. Esindusõigusega isik määrab asutuse rollihalduriks teise inimese.
+
+või
+
+1. Rollihaldur määrab uueks rollihalduriks teise inimese. Selle toiminguga rollihaldur ise kaotab rolli.
+
+Märkus. Vanas RIHAs sai asutuse RIHA haldur oma haldurirolli teisele inimesele üle anda.  
 
 (abivoog: rollihalduri eemaldamine)
 
