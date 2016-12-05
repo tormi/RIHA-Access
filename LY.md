@@ -9,7 +9,7 @@ Uue RIHA rollihalduse vajadused ja loodav tehniline lahendus on spetsifitseeritu
 
 Spetsifikatsioonid väljendavad Tellija hetke parimat teadmist. Tellija on püüdnud esitada võimalikult kogu tööde teostamiseks vajaliku informatsiooni. Spetsifikatsioone ei tule siiski käsitada lõplike ja muutumatutena. Võimalikud üleskerkivad küsimused lahendatakse töö käigus, Täitja ja Tellija koostöös ja tasakaalu otsides, seades prioriteetideks nii Tellija ärivajaduste rahuldamise kui ka kokkulepitud töömahus püsimise.
 
-Spetsifikatsioone hoitakse ajakohasena. Kui kokku ei lepita teisiti, siis spetsifikatsioone täiendab Tellija, kasutades Täitja esitatud teavat.
+Spetsifikatsioone hoitakse ajakohasena. Kui kokku ei lepita teisiti, siis spetsifikatsioone täiendab Tellija, kasutades Täitja esitatud teavet. 
 
 #### 2  Agiilarendus
 Rollihalduri tarkvara arendatakse agiilselt, jagades tööd kaheks, vajadusel ka enamaks iteratsiooniks. Käesolev lähteülesanne hõlmab I iteratsiooni töid. II iteratsiooni tööd täpsustatakse I iteratsiooni valmides.
