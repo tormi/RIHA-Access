@@ -50,6 +50,6 @@ Tööd ei sisalda:
 
 [1] [RIHA rollihaldus. Äriprotsess](Roles.md)
 
-[2] [RIHA rollihaldus.Tehniline lahendus](Specification.md).
+[2] [RIHA rollihaldus.Tehniline lahendus](Specification.md)
 
 [3] OpenLDAP, http://www.openldap.org/
